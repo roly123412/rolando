@@ -12,7 +12,7 @@ pygame.display.set_caption('Hello World!')
 screen = pygame.display.set_mode((400, 300))
 clock = pygame.time.Clock()
 paused = False
-
+#test comment for git
 #variables for managing
 score = 0
 score_length = len(str(score))
